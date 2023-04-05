@@ -1,0 +1,11 @@
+{
+  "name": "socialmedia",
+  "version": "2.0.0",
+  "description": "Project to learn backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhijit Mone",
+  "license": "ISC"
+}
